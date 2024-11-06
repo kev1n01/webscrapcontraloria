@@ -1,0 +1,19 @@
+{
+  "name": "backcontraloria",
+  "version": "1.0.0",
+  "description": "backend para la aplicacion de monitoreo automatico para la contraloria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kev1n01/webscrapcontraloria.git"
+  },
+  "author": "kevin y arvick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kev1n01/webscrapcontraloria/issues"
+  },
+  "homepage": "https://github.com/kev1n01/webscrapcontraloria#readme"
+}
